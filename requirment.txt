@@ -2,3 +2,4 @@ langgraph
 langchain
 dotenv
 langchain_openai
+langchain[google-genai]
