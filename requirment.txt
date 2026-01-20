@@ -3,3 +3,4 @@ langchain
 dotenv
 langchain_openai
 langchain[google-genai]
+langchain[huggingface]
